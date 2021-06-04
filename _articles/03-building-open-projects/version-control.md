@@ -17,15 +17,21 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
-Version control is a very useful tool for long term projects that see changes and improvements over time. It allows to track changes made to files and documents in a project over time. This in turn gives developers and users the opportunity to see the development history, bring back some changes made in the past, and many other things. In this case a project could be a book that is being written, or a recipe for a delicious plate, and also of course, an open hardware project. 
-Developed initially by and for software developers working on big collaborative projects, version control is a piece of software that tracks changes in your  
-
-
 - Introduction to version control systems
+
+Very likely the most known use case of version control comes from the software industry, where many different people are working on the same project at the same time. This makes it almost impossible to simply share one set of files around where each person would make changes to the files and then pass them on to the next one.
+
+To solve this limitation, version control systems were created, so that people could simultaneously work on the same project and not lose track of what has been changed, where, by whom and why. It makes managing a project much easier as contributors can share the changes they have made and original projects developers can decide to take those changes on the project or not (and if not, share back with the contributors why).
+
+
   - Why is it important?
+
   - use cases and examples
 - Understanding versioning control (not throwing git commands like a monkey)
 - Available platforms
+  One of the most used version control systems out there is GIT.
+
+  
 
 ### {{ site.assignment }} Define how you implement version control in your project
 

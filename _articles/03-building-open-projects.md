@@ -11,6 +11,8 @@ contents:
 following: _articles/03-building-open-projects/version-control.md
 
 ---
+
+
 How to concretely build an open project? This week you will go through a set of principles, values and tools that will help you lower access barriers for users and contributors. You will then apply them to start creating the building blocks of your open hardware project.
 
 ### Goal of the week
