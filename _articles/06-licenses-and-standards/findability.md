@@ -9,20 +9,16 @@ summary: "How to help others find your project"
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
-</p>
-
 * TOC
 {:toc}
 
 ### Open hardware growth and multiple platforms/formats
 
-Hardware projects have grown at an XXXX pace over the last couple of years, in many different communities and spaces. Science, agriculture, fashion, sustainability, are some examples of specialised communities that are developing their own projects, platforms and tools for sharing. 
+Hardware projects have grown at an extreme pace over the last couple of years, in many different communities and spaces. Science, agriculture, fashion, sustainability, are some examples of specialised communities that are developing their own projects, platforms and tools for sharing.
 
 While this is great, since it shows how OSH is growing and becoming more and more diverse, it also makes the space a bit fragmented, as several niche platforms/communities develop and they might miss progresses and solutions created by "neighbouring" colleagues.
 
-As an example, some of these platforms are listed below, and visiting a couple of them shows the above point quite clearly. Some are specific to 3D printing, some have a wiki format, some only have projects that have been OSHWA certified (see unit XXXXX for more details on the OSWHA certification program).
+As an example, some of these platforms are listed below, and visiting a couple of them shows the above point quite clearly. Some are specific to 3D printing, some have a wiki format, some only have projects that have been OSHWA certified (see unit 6.3 for more details on the OSWHA certification program).
 
 |Platform|main interest|note|
 |--|--|--|
@@ -44,9 +40,9 @@ As an example, some of these platforms are listed below, and visiting a couple o
 
 ### The need for findability standards
 
-This large number of platforms available for sharing create the need for an appropriate system to find projects. 
+This large number of platforms available for sharing create the need for an appropriate system to find projects.
 
-That is, how can we make sure we have searched everywhere for a project before we start something from scratch, and also, how can we make sure our project will be found by others? We tend to think that simply having a "google" for things will give us a pretty good overview of what is available, but this often times leads to projects being missed altogether, since sometimes they do not show in the first page of google. 
+That is, how can we make sure we have searched everywhere for a project before we start something from scratch, and also, how can we make sure our project will be found by others? We tend to think that simply having a "google" for things will give us a pretty good overview of what is available, but this often times leads to projects being missed altogether, since sometimes they do not show in the first page of google.
 
 Also, relying on Google for this is problematic from another stand point, where we do not know what kind of algorithms are being used to bring up results, and we become dependent on this "black box" that might as well be gone tomorrow for whatever reason.
 
@@ -54,18 +50,15 @@ Luckily there are people working on solving this issue. Most prominent currently
 
 ### OpenKnowHow project and derivatives, and how to implement it
 
-The Open KnowHow project has created a system that allows projects to be found, no matter in which platform they are hosted, while giving developers the opportunity to add interesting meta-data to their projects, increasing the chances of people understanding at which stage the project is, if it has been replicated by people other than the developers, if it has documentation in more than one language etc. 
+The Open KnowHow project has created a system that allows projects to be found, no matter in which platform they are hosted, while giving developers the opportunity to add interesting meta-data to their projects, increasing the chances of people understanding at which stage the project is, if it has been replicated by people other than the developers, if it has documentation in more than one language etc.
 
-This increased findability is achieved when a small standardized text file (in YAML format) is created: It should contain contain links to where documentation is hosted, whether or not the project has been reproduced by a third party, what kind of tools are needed to build that specific project, if the documentation is available in different languages, if the work is a derivative of another project, keywords for the project, etc. 
+This increased findability is achieved when a small standardized text file (in YAML format) is created: It should contain contain links to where documentation is hosted, whether or not the project has been reproduced by a third party, what kind of tools are needed to build that specific project, if the documentation is available in different languages, if the work is a derivative of another project, keywords for the project, etc.
 
 Once a project has this file, a webcrawler finds and indexes it in a [searchable repository](https://search.openknowhow.org/) which serves as a unifying place for all the projects that live in many different platforms.
 
+[Appropedia](https://www.appropedia.org), a wiki portal hosting open source sustainability related projects, is a great example of the use and the development of a derivative of the Open KnowHow standard. Open KnowHow manifests can be downloaded from each project's page. Here is an example for an [grey water system](https://www.appropedia.org/AEF_greywater)
 
-[Appropedia](https://www.appropedia.org), a wiki portal hosting open source sustainability related projects, is a great example of the use and the development of a derivative of the Open KnowHow standard. Open KnowHow manifests can be downloaded from each project's page. Here is an example for an [grey water system](https://www.appropedia.org/AEF_greywater) 
-
-<!-- An implementation using the Open KnowHow standard can be seen in the Open Hardware Observatory-->
-
-### {{ site.assignment }} Add an open know how manifesto to your project
+### {{ site.assignment }} Add an Open KnowHow manifesto to your project
 
 - Follow [these instructions](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki) to create a .yml file to include your project in [openknowhow.org](https://openknowhow.org) (You can use [this online form](https://okh.makernet.org/form) to create the .yml file)
 

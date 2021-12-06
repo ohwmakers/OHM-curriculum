@@ -9,27 +9,22 @@ summary: "Learn about the available options and their differences"
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
-</p>
 * TOC
 {:toc}
-
-
 
 ### Hardware licenses available (TAPR OHL, Solderpad, CERN-OH)
 
 Similar to open software licenses, developers have the opportunity of choosing from more than one available license. At the moment, there are three main hardware licenses available:
 - [TAPR OHL](https://tapr.org/the-tapr-open-hardware-license/) - similar to GNU GPL license
 - [Solderpad](http://solderpad.org/) - similar to Apache license
-- [CERN-OH](https://ohwr.org/cernohl) - the most recent version (v2.0) has three variants: 
+- [CERN-OH](https://ohwr.org/cernohl) - the most recent version (v2.0) has three variants:
   - A strongly-reciprocal variant, [CERN-OHL-S](https://ohwr.org/cern_ohl_s_v2.pdf)
   - A weakly-reciprocal variant, [CERN-OHL-W](https://ohwr.org/cern_ohl_w_v2.pdf)
   - A permissive variant, [CERN-OHL-P](https://ohwr.org/cern_ohl_p_v2.pdf)
 
-Each of the CERN variants try give users options in terms of how derivatives of their projects should be re-shared. For example, the CERN-OHL-S requires derivative projects to be reshared under the same license. This is similar to Copyleft licenses, such as GNU GPL 3.0 and Creative Commons "share alike".
+Each of the CERN variants try give users options in terms of how derivatives of their projects should be re-shared. For example, the CERN-OHL-S requires derivative projects to be re-shared under the same license. This is similar to Copyleft licenses, such as GNU GPL 3.0 and Creative Commons "share alike".
 
-Another main difference between these licenses is when their last version and revision came out, with the CERN v2.0 being the most recently reviewed (as of 12/Nov./2021). 
+Another main difference between these licenses is when their last version and revision came out, with the CERN v2.0 being the most recently reviewed (as of 12/Nov./2021).
 
 ### Examples of projects using different licenses
 
@@ -47,7 +42,7 @@ Another good source for projects that are properly licensed and documented can b
 
 ### Resources
 - ‘Licensing open source hardware’ by Michael Weinberg, in “Building open source hardware”
-- https://choosealicense.com/
+- [choosealicense.com - Onlinetool which can help you to find the right license for yur project](https://choosealicense.com/)
 - ['Does your open hardware project need a license'](https://opensource.com/law/15/2/intro-open-hardware-licensing)
-- https://ufal.github.io/public-license-selector/
-- https://www.gnu.org/licenses/license-recommendations.en.html
+- [Public license selector](https://ufal.github.io/public-license-selector/)
+- [GNU.org: license recommendations](https://www.gnu.org/licenses/license-recommendations.en.html)

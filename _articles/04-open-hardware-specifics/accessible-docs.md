@@ -8,7 +8,6 @@ following: _articles/04-open-hardware-specifics/bom.md
 summary: "This is a template module"
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
-
 ---
 * TOC
 {:toc}
