@@ -46,7 +46,7 @@ Delegating tasks and waiting for people to pick up tasks can be a bit hard in th
 
 ### {{ site.assignment }} Revisit you project and roadmap in light of time management
 - Take a look at your milestones and check if you are really comfortable with the deadlines/time frames.
-- Think of contributors' pathways for your project and create issues that others can help you with
+- Think of contributors' pathways for your project and create issues that others can help you with. Remember to frame things in a way people can easily start working on the tasks (considering what skill is needed, how much time, etc).
 
 ### Resources
 - [time management tips](https://www.nhs.uk/mental-health/self-help/tips-and-support/time-management-tips/)
