@@ -15,7 +15,7 @@ summary: "Short introduction to roadmapping"
 
 ### What's a roadmap and why is it useful?
 
-When you’re starting an open hardware project (or restarting a project, or starting a new phase of a project), it’s important to outline and plan for the work ahead and share that plan with any potential contributors. This way they will know where the project is standing and which intermediate goal you want to reach. Breaking up a big project into bite size pieces helps you to visualize your transform development into small actionable steps. 
+When you’re starting an open hardware project (or restarting a project, or starting a new phase of a project), it’s important to outline and plan for the work ahead and share that plan with any potential contributors. This way they will know where the project is standing and which intermediate goal you want to reach. Breaking up a big project into bite size pieces helps you to visualize progress and split your development into small actionable steps.
 
 We can do this using a text document we’ll call a “roadmap”. Like a road map you’d use while travelling, this document will help to identify where you are now and how to reach your project’s end goal, as well as the course that you will need to take to get there and which are your intermediate stops. Your roadmap summarizes your vision and includes a timeline for tasks. This a great tool for you –it helps you schedule work and track goals– but it’s key for anyone who might contribute to your project, so they know what’s currently happening on the project, and what’s next.
 
