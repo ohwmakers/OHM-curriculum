@@ -58,6 +58,8 @@ Once a project has this file, a webcrawler finds and indexes it in a [searchable
 
 [Appropedia](https://www.appropedia.org), a wiki portal hosting open source sustainability related projects, is a great example of the use and the development of a derivative of the Open KnowHow standard. Open KnowHow manifests can be downloaded from each project's page. Here is an example for an [grey water system](https://www.appropedia.org/AEF_greywater)
 
+Below you will see how to add the Open KnowHow standard to your project and how to include it into the database.
+
 ### {{ site.assignment }} Add an Open KnowHow manifesto to your project
 
 - Follow [these instructions](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki) to create a .yml file to include your project in [openknowhow.org](https://openknowhow.org) (You can use [this online form](https://okh.makernet.org/form) to create the .yml file)

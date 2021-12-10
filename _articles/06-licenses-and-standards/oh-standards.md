@@ -13,10 +13,6 @@ summary: "And why do we need them"
 {:toc}
 
 ### Hardware standards:
-  - The importance of standards (compatibility, reproducibility, repairability, guideline)  
-  - What is a suitable standard for my project?
-  - Examples of open standards and how to apply them to your project (eg DIN spec)
-  - What are the standards in your region? (Europe CE, Brazil INMETRO, etc)
 
 An important point to observe from open source projects is that due to their distributed nature, they normally do not follow one specific standard. In other words, as project X is brought to reality, its developers might have had a certain train of thought on how to organise their documentation, and this can be completely different from what the developers of project Y would have thought about. Although this is in principle OK, as in theory all projects should be documented well enough for anyone to understand them, it does bring the added complexity of having to navigate through different documentation styles, with different levels of completeness.
 
@@ -26,7 +22,10 @@ Another example of the benefits of standards, comes from the materials needed to
 
 In OSH, the first standards are starting to be created and gain traction, and they cover different OSH aspects. We are going to cover two of them:
 
-- The first standardisation we need is defining what exactly is open source hardware. In this case, this entails defining what kind of files should be shared (drawing, schematics, build plans, bill of materials, etc), in what format (editable X non-editable formats, proprietary X open formats, etc). The Open Source Hardware Association (OSHWA) has come up with a [definition](https://www.oshwa.org/definition/) (these has been translated in other languages - they can be found in the dropdown menu at the page header) for OSH covering these and other aspects. OSHWA also runs a certification program, which is free of charge and provides a way for developers to clearly display that their designs conforms with OSHWA's definition. This is quite useful for everyone, since users/collaborators/developers already know what to expect from the project's repository/documentation.
+- The first standardisation we need is defining what exactly is open source hardware. In this case, this entails defining what kind of files should be shared (drawing, schematics, build plans, bill of materials, etc), in what format (editable X non-editable formats, proprietary X open formats, etc). A group of people from the Open Source Hardware Association (OSHWA) has thought long about this and has come up with a [definition](https://www.oshwa.org/definition/) that covers these issues (The definition has been translated in other languages - they can be found in the dropdown menu at the page header). 
+  - In short, the OSHWA definition states that files shared should be in a public repository, in editable format, and if possible generated using open source software.
+
+- OSHWA also runs a certification program, which is free of charge and provides a way for developers to clearly display that their designs conforms with OSHWA's definition. This is quite useful for everyone, since users/collaborators/developers already know what to expect from the project's repository/documentation.
 
 - For hardware documentation, there is a [DIN](https://www.din.de/en) (Deutsches Institute fuer Normung - The German Institute for Standardization) specification, created by a joint effort of many people from the OSH community in collaboration with DIN. Specifically, it is [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip). A general explanation on the standard and its potential impacts can be found here [DIN standard for OSH documentation](https://journalopenhw.medium.com/din-spec-3105-explained-2cce6134c207). One thing to note is that the DIN Spec for OSH was made with an industry/commercialisation goal in mind, so conforming fully with this specification is not complicated, but could can be a bit time consuming.
 
