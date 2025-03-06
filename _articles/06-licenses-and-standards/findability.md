@@ -27,10 +27,9 @@ As an example, some of these platforms are listed below, and visiting a couple o
 |[Prusa Research Repository](https://www.prusaprinters.org/)|3D printing|allows users to share design files for parts that can be 3D printed|
 |[Thingiverse](https://thingiverse.com)|3D printing|allows users to share design files for parts that can be 3D printed|
 |[NIH 3D print exchange](https://3dprint.nih.gov/)|3D printing| focused on medical/research/educational models|
-|[Instructables.com|Instructions in general (for building hardware or not)|freemium model|
+|[Instructables](https://instructables.com)|Instructions in general (for building hardware or not)|freemium model|
 |[Wikifactory](https://wikifactory.com/)|Hardware in general|platform to create instructions and guidelines|
 |[Wikifab](https://wikifab.org/wiki/Accueil)|Hardware in general|platform to create instructions and guidelines|
-|[Instructables](https://www.instructables.com)|Hardware in general|platform to create instructions and guidelines|
 |[Hackaday.io](https://hackaday.io)|hardware in general|allows users to share design files for complete projects, no matter how simple or complex they are|
 |[GitHub](https://github.com)|Software and hardware projects|platform for hosting git repositories|
 |[GitLab](https://about.gitlab.com/)|Software and hardware project|platform for hosting git repositories|
