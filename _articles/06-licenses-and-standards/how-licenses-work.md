@@ -61,7 +61,7 @@ Make sure to check this module's resources for useful tools to help choosing lic
 - Browse through the resources below to learn about the different available licenses and their "ethos"
 
 ### Resources
-- [Too long, didn't read on legal issues around OSH](https://faircloud.eu/nextcloud/index.php/s/J7yL2jD7bESdDEZ)
+- [Too long, didn't read on legal issues around OSH](https://github.com/OPEN-NEXT/tldr-ipr/files/6926137/tldr-IPR.pdf)
 - [Open Source licenses explained](https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/)
 - [Creative Commons (CC)](https://creativecommons.org/)
 - [Wikipedia: Copyleft](https://en.wikipedia.org/wiki/Copyleft)
