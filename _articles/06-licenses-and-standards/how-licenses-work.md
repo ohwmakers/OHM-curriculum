@@ -53,7 +53,7 @@ Licenses that do not specify how derivative work should be re-shared are, by exc
 
 When we consider open source hardware projects, licensing has a special angle, as hardware projects can be composed of different “domains”, each having its pertinent license.
 
-We are going to cover this in more detail, but here is one example to get you thinking about this: Your project may be composed of 3D printed parts, some electronics and software to control those electronics. In this case, your project would need three licenses: One for the software code and for the 3D designs (here you could use one of the CC licenses, or GNU GPL), one for the hardware itself (here you could use the CERN OHL license), and one for other documentation, like building instructions, user guide, etc. (here you could use again CC licenses).
+We are going to cover this in more detail, but here is one example to get you thinking about this: Your project may be composed of 3D printed parts, some electronics and software to control those electronics. In this case, your project would need three licenses: One for the software code and for the 3D designs (here you could use software specific licenses like the MIT or GNU GPL licenses), one for the hardware itself (here you could use the CERN OHL license), and one for other documentation, like building instructions, user guide, etc. (here you could use  a CC-BY licenses).
 
 Make sure to check this module's resources for useful tools to help choosing licenses!
 
